@@ -1,7 +1,5 @@
 # Graphical-Calculator
 
-# Scientific Calculator
-
 Welcome to our dual-mode scientific calculator! Whether you're a terminal purist or prefer clickable buttons, we've got you covered with both a command-line and graphical interface.
 
 ## What's Included
